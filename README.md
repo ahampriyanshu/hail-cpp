@@ -8,3 +8,6 @@
 
 ## Day 2
 * [Dynamic Memory Allocation](https://www.programiz.com/c-programming/c-dynamic-memory-allocation)
+* [New and Delete](https://www.geeksforgeeks.org/new-and-delete-operators-in-cpp-for-dynamic-memory/)
+* [Reference Variable and Address Typecasting](https://www.geeksforgeeks.org/references-in-c/)
+* [Preprocessor](https://www.geeksforgeeks.org/cc-preprocessors/#:~:text=Macros%3A%20Macros%20are%20a%20piece,used%20to%20define%20a%20macro.)
