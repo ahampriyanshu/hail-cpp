@@ -30,9 +30,27 @@
 <summary><b>Day 4:</b> Recursion</summary>
 
 + [Recursion](https://www.geeksforgeeks.org/recursion/)
++ [Keypad]https://www.geeksforgeeks.org/find-possible-words-phone-digits/)
++ [Subsequences of a string](https://www.geeksforgeeks.org/print-subsequences-string/)
++ [Fibonacci Series](https://www.tutorialspoint.com/cplusplus-program-to-find-fibonacci-numbers-using-recursion)
++ [Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
++ [Binary Search](https://www.geeksforgeeks.org/binary-search/)
 
 </details>
 
 <details>
-<summary><b>Day 5:</b> OOPs</summary>
+<summary><b>Day 5:</b> Time and Space Complexity</summary>
+
++ [Time Complexity](https://www.freecodecamp.org/news/time-complexity-of-algorithms/#:~:text=So%2C%20the%20time%20complexity%20is,terms%20of%20the%20time%20complexity.)
++ [Space Complexity](https://en.wikipedia.org/wiki/Space_complexity#:~:text=The%20space%20complexity%20of%20an,a%20program%20and%20produce%20output.)
+
+</details>
+
+<details>
+<summary><b>Day 6:</b> OOP Basic</summary>
+
++ [Classes and Objects](https://www.geeksforgeeks.org/c-classes-and-objects/)
++ [Constructors and Destructors](https://www.studytonight.com/cpp/constructors-and-destructors-in-cpp.php#:~:text=Constructors%20are%20special%20class%20functions,to%20destroy%20the%20class%20object.)
++ ['this' Keyword](https://www.geeksforgeeks.org/this-pointer-in-c/)
+
 </details>
