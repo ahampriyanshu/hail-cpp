@@ -52,5 +52,21 @@
 + [Classes and Objects](https://www.geeksforgeeks.org/c-classes-and-objects/)
 + [Constructors and Destructors](https://www.studytonight.com/cpp/constructors-and-destructors-in-cpp.php#:~:text=Constructors%20are%20special%20class%20functions,to%20destroy%20the%20class%20object.)
 + ['this' Keyword](https://www.geeksforgeeks.org/this-pointer-in-c/)
++ [Shallow Copy and Deep Copy](https://www.geeksforgeeks.org/shallow-copy-and-deep-copy-in-c/)
++ [Initializer List](https://www.geeksforgeeks.org/when-do-we-use-initializer-list-in-c/)
++ [Constant Memeber Functions](https://www.tutorialspoint.com/const-member-functions-in-cplusplus#:~:text=The%20const%20member%20functions%20are,by%20any%20type%20of%20object.)
++ [Static Members](https://www.tutorialspoint.com/cplusplus/cpp_static_members.htm#:~:text=When%20we%20declare%20a%20member,no%20other%20initialization%20is%20present.)
++ [Operator Overloading](https://www.geeksforgeeks.org/operator-overloading-c/)
+
+</details>
+
+<details>
+<summary><b>Day 7:</b> Linked List</summary>
+
++ [Singly Linked List](https://www.codesdope.com/blog/article/c-linked-lists-in-c-singly-linked-list/)
++ [Recursive insertion and traversal](https://www.geeksforgeeks.org/recursive-insertion-and-traversal-linked-list/)
++ [Delete a linked list using recursion](https://www.geeksforgeeks.org/delete-linked-list-using-recursion/)
++ [Doubly Linked List](https://www.geeksforgeeks.org/doubly-linked-list/)
++ [Circular Linked List](https://www.geeksforgeeks.org/circular-singly-linked-list-insertion/)
 
 </details>
