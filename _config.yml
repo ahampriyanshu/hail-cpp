@@ -1,1 +1,15 @@
-theme: jekyll-theme-midnight
+# Site settings
+title: "hail cpp"
+author: "Priyanshu Tiwari"
+description: "MY experiments with cpp"
+keywords: "CPP, STL, Algorithm, DSA, Maths"
+biography: "Undergrad Student"
+
+url: hail-cpp
+baseurl: ""
+# google-analytics: UA-
+
+simple_search: http://google.com/search
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:year/:month/:day/:title/
