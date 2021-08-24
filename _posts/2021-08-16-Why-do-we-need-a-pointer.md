@@ -1,7 +1,10 @@
 ---
 layout: post
-title: Hello World
+title: 'New and Delete'
 categories: Pointers
+description: New and Delete
+keywords: 'new, delete'
+author: 'Priyanshu Tiwari'
 ---
 
 > Can you handle the pointers ?

@@ -1,16 +1,17 @@
 # Site settings
-title: "hail cpp"
+title: "CPP For CP"
 author: "Priyanshu Tiwari"
-description: "MY experiments with cpp"
-keywords: "CPP, STL, Algorithm, DSA, Maths"
-biography: "Undergrad Student"
-
-domain: hail-cpp.ahampriyanshu.com       
-url: https://hail-cpp.ahampriyanshu.com
+description: "A cocktail of all the data structures and algorithms for competitive programming in C++"
+keywords: "CPP, STL, Algorithm, DSA, Maths, Priyanshu, Tiwari, ahampriyanshu, website, c++, c, plus, resources"
+biography: "Hello I'm Priyanshu Tiwari, an undergrad student and full-stack web developer based in India. Beside programming, I love cinema, history, comedy, politics and experimenting with equity market."
+       
+url: https://cpp.ahampriyanshu.com
 baseurl: ""
-# google-analytics: UA-
+google-analytics: GTM-598SW68
 
 simple_search: http://google.com/search
 markdown: kramdown
 highlighter: rouge
-permalink: /blog/:year/:month/:day/:title/
+permalink: /:categories/:title/
+plugins:
+  - jekyll-sitemap
